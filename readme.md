@@ -1,5 +1,4 @@
 Name : Omkumar Dalsaniya<br>
-StudentID : 991750988
 
 Data Sources:<br>
 &nbsp;&nbsp;&nbsp;OpenWeatherAPI for Weather Summary<br>
